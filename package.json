@@ -1,0 +1,14 @@
+{
+  "name": "mocha-run",
+  "version": "0.1.0",
+  "description": "Run mocha files using `node testfile.js`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
+  "license": "BSD"
+}
